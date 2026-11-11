@@ -27,7 +27,8 @@
 - Animación sutil de aparición, desactivada con `prefers-reduced-motion`.
 
 ## Link del Deploy
-https://boveda-gif-hub.github.io/ProyectoM1_omarmirandaramirez/
+
+https://boveda-gif-hub.github.io/ProyectoM1_omarmiranda/
 
 ## Instrucciones de uso y ejecución local
 
