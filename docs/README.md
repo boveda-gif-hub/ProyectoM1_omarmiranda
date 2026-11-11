@@ -35,7 +35,7 @@ https://boveda-gif-hub.github.io/ProyectoM1_omarmiranda/
 **Ejecución local**
 1. Clona el repositorio:
    ```
-   git clone https://github.com/boveda-gif-hub/ProyectoM1_omarmirandaramirez.git
+   git clone https://github.com/boveda-gif-hub/ProyectoM1_omarmiranda.git
    ```
 2. Entra a la carpeta del proyecto.
 3. Abre `index.html` en el navegador (doble clic). No necesita instalar nada.
