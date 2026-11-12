@@ -195,16 +195,18 @@ function leerGuardadas() {
 function escribirGuardadas(lista) {
   try {
     localStorage.setItem(CLAVE_STORAGE, JSON.stringify(lista));
+    return true;
   } catch (error) {
     console.error("Error al guardar:", error);
     mostrarToast("No se pudo guardar");
+    return false;
   }
 }
- 
+
 function guardarPaleta() {
   const lista = leerGuardadas();
   lista.unshift(paleta.map((c) => ({ hex: c.hex, detalle: c.detalle, bloqueado: false })));
-  escribirGuardadas(lista.slice(0, MAX_GUARDADAS));
+  if (!escribirGuardadas(lista.slice(0, MAX_GUARDADAS))) return;
   mostrarGuardadas();
   mostrarToast("Paleta guardada");
 }
