@@ -10,7 +10,7 @@ Usé IA como mentor para generar la primera versión del MVP y luego la revisé,
 **Prompt usado:**
 
 **Resultado:** (La IA me entregó un MVP con index.html, style.css y script.js que genera 6,8 y 9 colores aleatorios, en formato HSL, HEX, RGBA y un README con instrucciones.)
-**Captura:** `(docs/capturas/ia-prompt1.png)`
+**Captura:** (docs/capturas/ia-prompt1.png)
 
 ## Prompt 2: Objetivos del Proyecto Integrador
 **Prompt usado:**
