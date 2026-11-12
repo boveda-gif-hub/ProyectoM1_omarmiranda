@@ -100,11 +100,6 @@ Prompt de ejemplo:
 **Mejora posible:** pedir también casos de prueba y un listado de errores comunes.
  
 **Capturas**
- 
-![Prompt 1](docs/capturas/ia-prompt1.png)
-![Prompt 2](docs/capturas/ia-prompt2.png)
-![Prompt 3](docs/capturas/ia-prompt3.png)
-![Prompt 4](docs/capturas/ia-prompt4.png)
- 
+
 ## Flujo de la app (capturas o gif)
 ![Flujo de la app](docs/capturas/flujo.gif)
